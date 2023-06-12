@@ -52,7 +52,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  https://github.com/kunaaal13/SNAP-AI.git
+  https://github.com/Atharva9405/Snap-Ai.git
 ```
 
 Go to the project directory
